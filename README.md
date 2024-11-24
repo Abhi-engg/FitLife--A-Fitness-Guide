@@ -1,2 +1,2 @@
-# FitLife-A-Fitness-Guide
+# FitLifeA-Fitness-Guide
 
